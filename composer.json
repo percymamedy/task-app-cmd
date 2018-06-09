@@ -1,0 +1,14 @@
+{
+    "name": "percymamedy/task-app-cmd",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Percy Mamedy",
+            "email": "percymamedy@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "~4.0"
+    }
+}
